@@ -1,12 +1,12 @@
 # Leading Nature Photo Gallery
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Here-brightgreen)](https://iam269.github.io/Leading-Nature/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Here-brightgreen)](https://itsiamddev.github.io/Leading-Nature/)
 
 A responsive photo gallery website featuring an interactive image slider that showcases stunning landscape photography. The gallery displays a collection of high-quality nature images with smooth hover effects and a clean, modern design. Built entirely with HTML5 and CSS3 for optimal performance and accessibility.
 
 ## 🌐 Live Demo
 
-Experience the gallery live at: [https://iam269.github.io/Leading-Nature/](https://iam269.github.io/Leading-Nature/)
+Experience the gallery live at: [https://itsiamdev.github.io/Leading-Nature/](https://itsiamdev.github.io/Leading-Nature/)
 
 ## ✨ Features
 
